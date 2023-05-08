@@ -1,3 +1,6 @@
+## moving planet animation created with CSS
+My https://github.com/SONG-crystal/Open-Source-CSS/blob/master/crystal.gif
+
 > ### **UPDATE:** Event Concluded!
 >
 > **This project started as a project for Hacktoberfest 2019, Thank you to everyone that participated and made this project what it is today and we look forward to seeing you all at Hacktoberfest 2020!.
