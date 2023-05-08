@@ -48,17 +48,5 @@ Now, once you've forked this repo and got a local version up on your computer, f
    _If you don't add a gif/screenshot, the website won't show your animation._
 6. Go to the root `include.js`. You will see an array of objects, each one represents a work of art that someone has created. Copy the example object below and paste it at the end, filling it out with your art information and links:
 
-```js
-let cards = [
-  //  Add your card in this section
-  {
-    artName: 'Your art name here',
-    pageLink: './Art/Joy/triangle/triangle.html',
-    imageLink: './Art/Joy/triangle/triangle.gif',
-    author: 'Joy',
-    githubLink: 'https://github.com/royranger'
-  }
-];
-```
 
 And congratulations! You're all done. Have fun!
